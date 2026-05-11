@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nazar-Triukhan/homework-metodPromise.git"
+    "url": "git+https://github.com/Nazar-Triukhan/homework-metodpromise.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nazar-Triukhan/homework-metodPromise/issues"
+    "url": "https://github.com/Nazar-Triukhan/homework-metodpromise/issues"
   },
-  "homepage": "https://github.com/Nazar-Triukhan/homework-metodPromise#readme",
+  "homepage": "https://github.com/Nazar-Triukhan/homework-metodpromise#readme",
   "devDependencies": {
     "parcel": "^2.16.4"
   },
